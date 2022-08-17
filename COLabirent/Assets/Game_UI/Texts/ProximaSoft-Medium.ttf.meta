@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: dbc25b15b19f41e4988f1bbdaab1b8f1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Proxima Soft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e90299e1e01b2cf4d819bceb205a2f97, type: 3}
+  - {fileID: 12800000, guid: 7bc5bb5a6c99f4f4eb920eb5adc966b1, type: 3}
+  - {fileID: 12800000, guid: c91c3933036dfb64dbbfeab7e9bbbcf9, type: 3}
+  - {fileID: 12800000, guid: 2b0f99c4815679b4d805897c72964bb5, type: 3}
+  - {fileID: 12800000, guid: a2f7ec9a4146b2f40a30a54ef2713efc, type: 3}
+  - {fileID: 12800000, guid: d5df45611734dc844bce4d0d1dfe11fe, type: 3}
+  - {fileID: 12800000, guid: 72dc61a4bc8b4dd429d0ce874fdbc5c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
