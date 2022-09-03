@@ -1,5 +1,5 @@
 
-=== Fri Jul 15 16:47:04 2022
+=== Fri Jul 15 14:06:07 2022
 
 Packages were changed.
 Update Mode: resetToDefaultDependencies
@@ -45,3 +45,12 @@ The following packages were added:
   com.unity.timeline@1.6.4
   com.unity.ugui@1.0.0
   com.unity.visualscripting@1.7.6
+
+=== Fri Jul 15 15:29:15 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.13 to 3.0.14
+  com.unity.ide.visualstudio from version 2.0.14 to 2.0.15
